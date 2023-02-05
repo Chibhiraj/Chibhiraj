@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chibhiraj
-- 👀 I’m interested in app developement and graphic designing
-- 🌱 I’m currently learning Android developement
+- 👀 I’m interested in web developement and graphic designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
