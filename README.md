@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chibhiraj K</h1>
-<h3 align="center">Software Engineer | Backend-Focused | Full-Stack Capable</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
