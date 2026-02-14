@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chibhiraj K</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 - 📫 How to reach me **chibhiraj@gmail.com**
 
